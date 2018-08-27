@@ -1,0 +1,3 @@
+https://github.com/Kulbear/deep-learning-coursera
+
+https://github.com/rvarun7777/Deep_Learning/blob/master/Sequence%20Models/Week%201/Recurrent%20Neural%20Networks.pdf
